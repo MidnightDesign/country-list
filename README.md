@@ -23,6 +23,11 @@ Multilingual
 
 All formats are also available in multiple languages, please find full language list [here](https://github.com/umpirsky/country-list/tree/master/data).
 
+How to locate the data directory
+--------------------------------
+
+`CountryList::getDataPath()` will return the absolute path to the "data" directory.
+
 Build
 -----
 
